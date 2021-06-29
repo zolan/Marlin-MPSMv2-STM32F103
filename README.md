@@ -1,3 +1,7 @@
+# The Relevant README.
+
+I didn't want to remove the original README so click on the [MPSMv2 STMF103 README](README-mpsmv2-stm32F103.md) for the important details.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
